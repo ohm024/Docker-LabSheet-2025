@@ -380,9 +380,9 @@ git version 2.43.0
 > **📝 บันทึกผล**: 
 ```
 บันทึกรูปภาพผลการตรวจสอบ version
+```
 <img width="711" height="702" alt="image" src="https://github.com/user-attachments/assets/dffa13b4-ce77-41a2-b833-e6bf3ddcd3af" />
 
-```
 ---
 
 #### 1.2 Clone Repository
@@ -496,9 +496,8 @@ a1b2c3d4e5f6   nginx:alpine   "/docker-entrypoint.…"   2 seconds ago  Up 2 sec
 **บันทึกผลการทดลอง**
 ```
 บันทึกรูปผลการทดลอง คำสั่ง docker ps
-<img width="1260" height="74" alt="image" src="https://github.com/user-attachments/assets/5d5f8cf6-7820-471a-ad65-747e054f9239" />
-
 ```
+<img width="1260" height="74" alt="image" src="https://github.com/user-attachments/assets/5d5f8cf6-7820-471a-ad65-747e054f9239" />
 
 เปิด Browser ไปที่ **http://localhost:8080** ควรเห็นหน้า `Welcome to nginx!`
 
@@ -637,9 +636,8 @@ exit
 **บันทึกรูปผลการทดลอง**
 ```text
 บันทึกรูปผลการทดลองที่นี่
-<img width="1331" height="1025" alt="image" src="https://github.com/user-attachments/assets/7387cff3-ecc5-4491-9808-2541e56e333a" />
-
 ```
+<img width="1331" height="1025" alt="image" src="https://github.com/user-attachments/assets/7387cff3-ecc5-4491-9808-2541e56e333a" />
 ---
 
 ### ❓ คำถามท้ายขั้นตอนที่ 2
